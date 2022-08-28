@@ -15,6 +15,6 @@
 
 - :zap: In my free time, I play MOBA (multiplayer online battle arena) games, Watch English TV series, and Travel.
 
-- :mailbox:How to reach me: 
+- :mailbox: How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Sameer_Khule-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkhule/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](sameerkhule@gmail.com)
