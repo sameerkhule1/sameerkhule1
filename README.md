@@ -13,7 +13,7 @@
 
 - :telescope: I’m an AWS Cloud Enthusiast!
 
-- :zap: In my free time, I play MOBA (multiplayer online battle arena) games, Watch English TV series, and Travel.
+- :zap: In my free time, I play MOBA (multiplayer online battle arena) games, watch english movies/TV-series.
 
 - :mailbox: How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Sameer_Khule-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkhule/)
