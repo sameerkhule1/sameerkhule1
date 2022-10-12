@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :telescope: I’m an AWS & DevOps Cloud Enthusiast!
+- :telescope: I’m an DevOps & AWS Cloud Enthusiast!
 
 - :mailbox: How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-Sameer_Khule-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameerkhule/)
